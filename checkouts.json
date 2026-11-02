@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T08:46:19+00:00",
+  "generated_at": "2026-11-02T19:58:52+00:00",
   "scopes": {
     "today": {
       "start": "2026-11-02",
@@ -58,10 +58,10 @@
               "checkouts": [
                 {
                   "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal G",
@@ -124,6 +124,13 @@
               "date": "2026-11-03",
               "weekday": "Terça",
               "checkouts": [
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
+                  "empty_days": null
+                },
                 {
                   "property": "Gloria 1F",
                   "back_to_back": false,
@@ -266,10 +273,10 @@
               "checkouts": [
                 {
                   "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal G",
@@ -291,6 +298,13 @@
               "date": "2026-11-03",
               "weekday": "Terça",
               "checkouts": [
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
+                  "empty_days": null
+                },
                 {
                   "property": "Gloria 1F",
                   "back_to_back": false,
@@ -316,7 +330,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 3
                 },
                 {
                   "property": "Canal L",
@@ -499,6 +513,20 @@
               "date": "2026-11-15",
               "weekday": "Domingo",
               "checkouts": [
+                {
+                  "property": "Blanc 18 1.6 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Blanc 18 1.7 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "Ria Laço F",
                   "back_to_back": false,
