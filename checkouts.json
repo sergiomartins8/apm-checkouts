@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T09:09:42+00:00",
+  "generated_at": "2026-11-03T17:32:09+00:00",
   "scopes": {
     "today": {
       "start": "2026-11-03",
@@ -136,14 +136,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 5
-                },
-                {
-                  "property": "Gloria 1D",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 }
               ]
             }
@@ -261,6 +254,19 @@
                   "empty_days": 4
                 }
               ]
+            },
+            {
+              "date": "2026-11-05",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "Historia",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
             }
           ]
         },
@@ -337,8 +343,14 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 5
-                },
+                  "empty_days": 1
+                }
+              ]
+            },
+            {
+              "date": "2026-11-05",
+              "weekday": "Quinta",
+              "checkouts": [
                 {
                   "property": "Gloria 1D",
                   "back_to_back": false,
@@ -353,6 +365,13 @@
               "weekday": "Sábado",
               "checkouts": [
                 {
+                  "property": "Blanc 18 1.7 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 5
+                },
+                {
                   "property": "Blanc 28 2.10",
                   "back_to_back": false,
                   "nights": null,
@@ -365,6 +384,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Canal L",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
                 }
               ]
             },
@@ -445,7 +471,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 16
                 },
                 {
                   "property": "Beira Ria Loft",
@@ -522,9 +548,9 @@
                 },
                 {
                   "property": "Blanc 18 1.7 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
