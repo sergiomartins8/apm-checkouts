@@ -1,75 +1,7 @@
 {
-  "generated_at": "2026-11-03T22:50:17+00:00",
+  "generated_at": "2026-11-04T04:25:30+00:00",
   "scopes": {
     "today": {
-      "start": "2026-11-03",
-      "end": "2026-11-03",
-      "teams": [
-        {
-          "team": "Aline",
-          "days": []
-        },
-        {
-          "team": "Liliane",
-          "days": []
-        },
-        {
-          "team": "Mara Cardoso",
-          "days": [
-            {
-              "date": "2026-11-03",
-              "weekday": "Terça",
-              "checkouts": [
-                {
-                  "property": "iConik 0.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Margarida",
-          "days": []
-        },
-        {
-          "team": "Sirlane",
-          "days": [
-            {
-              "date": "2026-11-03",
-              "weekday": "Terça",
-              "checkouts": [
-                {
-                  "property": "Blanc 28 2.10",
-                  "back_to_back": true,
-                  "nights": 4,
-                  "people": 2,
-                  "empty_days": null
-                },
-                {
-                  "property": "Gloria 1F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 5
-                },
-                {
-                  "property": "GreenView D",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 8
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "tomorrow": {
       "start": "2026-11-04",
       "end": "2026-11-04",
       "teams": [
@@ -137,6 +69,60 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "tomorrow": {
+      "start": "2026-11-05",
+      "end": "2026-11-05",
+      "teams": [
+        {
+          "team": "Aline",
+          "days": []
+        },
+        {
+          "team": "Liliane",
+          "days": []
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": []
+        },
+        {
+          "team": "Margarida",
+          "days": [
+            {
+              "date": "2026-11-05",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "Historia",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Sirlane",
+          "days": [
+            {
+              "date": "2026-11-05",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "Gloria 1D",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             }
