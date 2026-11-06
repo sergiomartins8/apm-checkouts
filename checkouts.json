@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T04:42:59+00:00",
+  "generated_at": "2026-11-06T13:38:27+00:00",
   "scopes": {
     "today": {
       "start": "2026-11-06",
@@ -91,10 +91,10 @@
                 },
                 {
                   "property": "Canal L",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             }
@@ -358,10 +358,10 @@
                 },
                 {
                   "property": "Canal L",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             },
@@ -388,7 +388,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 2
                 }
               ]
             }
@@ -464,6 +464,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Canal L",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 1,
+                  "empty_days": null
                 }
               ]
             },
@@ -516,6 +523,13 @@
                   "back_to_back": true,
                   "nights": 2,
                   "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Ruela 96",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
                   "empty_days": null
                 }
               ]
