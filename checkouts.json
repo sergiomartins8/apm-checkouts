@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T16:04:56+00:00",
+  "generated_at": "2026-11-07T21:21:44+00:00",
   "scopes": {
     "today": {
       "start": "2026-11-07",
@@ -172,6 +172,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Canal K",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 3
                 },
                 {
                   "property": "GreenView D",
@@ -501,6 +508,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Canal K",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 3
                 },
                 {
                   "property": "GreenView D",
