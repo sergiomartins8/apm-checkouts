@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T08:59:44+00:00",
+  "generated_at": "2026-11-09T20:24:17+00:00",
   "scopes": {
     "today": {
       "start": "2026-11-09",
@@ -134,6 +134,19 @@
               "checkouts": [
                 {
                   "property": "NB Life V",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-11-13",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "DOCA 1 A 1.2",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
