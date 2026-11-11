@@ -1,33 +1,7 @@
 {
-  "generated_at": "2026-11-10T12:05:37+00:00",
+  "generated_at": "2026-11-11T01:41:52+00:00",
   "scopes": {
     "today": {
-      "start": "2026-11-10",
-      "end": "2026-11-10",
-      "teams": [
-        {
-          "team": "Aline",
-          "days": []
-        },
-        {
-          "team": "Liliane",
-          "days": []
-        },
-        {
-          "team": "Mara Cardoso",
-          "days": []
-        },
-        {
-          "team": "Margarida",
-          "days": []
-        },
-        {
-          "team": "Sirlane",
-          "days": []
-        }
-      ]
-    },
-    "tomorrow": {
       "start": "2026-11-11",
       "end": "2026-11-11",
       "teams": [
@@ -67,6 +41,60 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "GreenView D",
+                  "back_to_back": true,
+                  "nights": 6,
+                  "people": 2,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "tomorrow": {
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "teams": [
+        {
+          "team": "Aline",
+          "days": []
+        },
+        {
+          "team": "Liliane",
+          "days": []
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": []
+        },
+        {
+          "team": "Margarida",
+          "days": []
+        },
+        {
+          "team": "Sirlane",
+          "days": [
+            {
+              "date": "2026-11-12",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "Beira Ria 2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
+                {
+                  "property": "Canal L",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 8
                 }
               ]
             }
@@ -115,6 +143,19 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-11-15",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "DOCA 2 A 0.6",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -182,6 +223,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "GreenView D",
+                  "back_to_back": true,
+                  "nights": 6,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             },
@@ -194,7 +242,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 13
+                  "empty_days": 1
                 },
                 {
                   "property": "Canal L",
@@ -214,7 +262,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 2
                 },
                 {
                   "property": "Canal I",
@@ -358,11 +406,31 @@
               "weekday": "Quarta",
               "checkouts": [
                 {
+                  "property": "Beira Ria 2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 7
+                },
+                {
                   "property": "Gran Ria E",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
                   "empty_days": 35
+                }
+              ]
+            },
+            {
+              "date": "2026-11-20",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "Beira Ria 1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             },
