@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T14:31:17+00:00",
+  "generated_at": "2026-11-12T22:03:11+00:00",
   "scopes": {
     "today": {
       "start": "2026-11-12",
@@ -199,7 +199,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 6
                 }
               ]
             },
@@ -225,6 +225,13 @@
                   "back_to_back": true,
                   "nights": 2,
                   "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "White 405",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
                   "empty_days": null
                 }
               ]
@@ -291,7 +298,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 3
                 },
                 {
                   "property": "GreenView D",
@@ -396,6 +403,13 @@
                   "empty_days": null
                 },
                 {
+                  "property": "Gloria 1F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
                   "property": "Ria Laço F",
                   "back_to_back": false,
                   "nights": null,
@@ -466,6 +480,13 @@
               "checkouts": [
                 {
                   "property": "Cais do Sal E",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "NB Life V",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
