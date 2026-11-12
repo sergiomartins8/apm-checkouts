@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T05:27:10+00:00",
+  "generated_at": "2026-11-12T14:31:17+00:00",
   "scopes": {
     "today": {
       "start": "2026-11-12",
@@ -44,9 +44,9 @@
                 },
                 {
                   "property": "Ruela 96",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 1,
                   "empty_days": null
                 }
               ]
@@ -76,9 +76,9 @@
               "checkouts": [
                 {
                   "property": "iConik 1.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -162,6 +162,19 @@
             {
               "date": "2026-11-13",
               "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "iConik 1.1",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-11-14",
+              "weekday": "Sábado",
               "checkouts": [
                 {
                   "property": "iConik 1.1",
@@ -309,9 +322,9 @@
                 },
                 {
                   "property": "Ruela 96",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 1,
                   "empty_days": null
                 }
               ]
@@ -388,6 +401,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Ruela 96",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             }
@@ -423,7 +443,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 3
                 }
               ]
             },
@@ -433,6 +453,19 @@
               "checkouts": [
                 {
                   "property": "DOCA 2 A 0.6",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-11-22",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "Cais do Sal E",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
