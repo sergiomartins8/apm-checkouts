@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T11:50:16+00:00",
+  "generated_at": "2026-11-13T19:06:03+00:00",
   "scopes": {
     "today": {
       "start": "2026-11-13",
@@ -22,9 +22,9 @@
               "checkouts": [
                 {
                   "property": "iConik 0.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 1,
                   "empty_days": null
                 },
                 {
@@ -79,10 +79,10 @@
                 },
                 {
                   "property": "Canal I",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "Ria Laço F",
@@ -117,6 +117,13 @@
               "weekday": "Sábado",
               "checkouts": [
                 {
+                  "property": "iConik 0.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
                   "property": "iConik 1.1",
                   "back_to_back": false,
                   "nights": null,
@@ -133,7 +140,21 @@
         },
         {
           "team": "Sirlane",
-          "days": []
+          "days": [
+            {
+              "date": "2026-11-14",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "Canal I",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -176,6 +197,13 @@
               "date": "2026-11-14",
               "weekday": "Sábado",
               "checkouts": [
+                {
+                  "property": "iConik 0.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "iConik 1.1",
                   "back_to_back": false,
@@ -325,7 +353,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 8
+                  "empty_days": 2
                 },
                 {
                   "property": "Ruela 96",
@@ -356,15 +384,28 @@
                 },
                 {
                   "property": "Canal I",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "Ria Laço F",
                   "back_to_back": true,
                   "nights": 2,
+                  "people": 2,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-11-14",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "Canal I",
+                  "back_to_back": true,
+                  "nights": 1,
                   "people": 2,
                   "empty_days": null
                 }
@@ -379,7 +420,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 18
                 },
                 {
                   "property": "Blanc 18 1.7 A",
@@ -530,6 +571,13 @@
               "date": "2026-11-17",
               "weekday": "Terça",
               "checkouts": [
+                {
+                  "property": "Canal L",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 3
+                },
                 {
                   "property": "GreenView D",
                   "back_to_back": false,
