@@ -1,68 +1,7 @@
 {
-  "generated_at": "2026-11-14T21:56:14+00:00",
+  "generated_at": "2026-11-15T01:31:41+00:00",
   "scopes": {
     "today": {
-      "start": "2026-11-14",
-      "end": "2026-11-14",
-      "teams": [
-        {
-          "team": "Aline",
-          "days": []
-        },
-        {
-          "team": "Liliane",
-          "days": []
-        },
-        {
-          "team": "Mara Cardoso",
-          "days": [
-            {
-              "date": "2026-11-14",
-              "weekday": "Sábado",
-              "checkouts": [
-                {
-                  "property": "iConik 0.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
-                },
-                {
-                  "property": "iConik 1.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Margarida",
-          "days": []
-        },
-        {
-          "team": "Sirlane",
-          "days": [
-            {
-              "date": "2026-11-14",
-              "weekday": "Sábado",
-              "checkouts": [
-                {
-                  "property": "Canal I",
-                  "back_to_back": true,
-                  "nights": 1,
-                  "people": 2,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "tomorrow": {
       "start": "2026-11-15",
       "end": "2026-11-15",
       "teams": [
@@ -140,9 +79,9 @@
                 },
                 {
                   "property": "Canal I",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 1,
                   "empty_days": null
                 },
                 {
@@ -161,6 +100,88 @@
                 },
                 {
                   "property": "Ruela 96",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "tomorrow": {
+      "start": "2026-11-16",
+      "end": "2026-11-16",
+      "teams": [
+        {
+          "team": "Aline",
+          "days": []
+        },
+        {
+          "team": "Liliane",
+          "days": []
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": []
+        },
+        {
+          "team": "Margarida",
+          "days": [
+            {
+              "date": "2026-11-16",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "Cais do Sal E",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Sirlane",
+          "days": [
+            {
+              "date": "2026-11-16",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "Blanc 18 1.6 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 17
+                },
+                {
+                  "property": "Blanc 18 1.7 A",
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 1,
+                  "empty_days": null
+                },
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Blanc 7 2.3",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Gloria 1D",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -459,9 +480,9 @@
                 },
                 {
                   "property": "Canal I",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 1,
                   "empty_days": null
                 },
                 {
@@ -646,6 +667,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 22
+                }
+              ]
+            },
+            {
+              "date": "2026-11-19",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "Canal I",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             },
