@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:32:47+00:00",
+  "generated_at": "2026-11-17T00:03:58+00:00",
   "scopes": {
     "today": {
       "start": "2026-11-16",
@@ -61,13 +61,13 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 },
                 {
                   "property": "Blanc 7 2.3",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -237,13 +237,13 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 },
                 {
                   "property": "Blanc 7 2.3",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -287,6 +287,13 @@
                   "empty_days": 7
                 },
                 {
+                  "property": "Blanc 7 2.3",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
                   "property": "Gran Ria E",
                   "back_to_back": false,
                   "nights": null,
@@ -321,6 +328,13 @@
               "checkouts": [
                 {
                   "property": "Beira Ria 1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 3
+                },
+                {
+                  "property": "Blanc 28 2.10",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -419,6 +433,13 @@
               "date": "2026-11-27",
               "weekday": "Sexta",
               "checkouts": [
+                {
+                  "property": "Beira Ria 1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "Beira Ria 2",
                   "back_to_back": false,
