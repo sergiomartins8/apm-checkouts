@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T09:39:52+00:00",
+  "generated_at": "2026-11-18T18:37:55+00:00",
   "scopes": {
     "today": {
       "start": "2026-11-18",
@@ -37,9 +37,9 @@
                 },
                 {
                   "property": "Blanc 18 3.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -109,7 +109,21 @@
         },
         {
           "team": "Mara Cardoso",
-          "days": []
+          "days": [
+            {
+              "date": "2026-11-21",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "iConik 1.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
         },
         {
           "team": "Margarida",
@@ -239,9 +253,9 @@
                 },
                 {
                   "property": "Blanc 18 3.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -305,6 +319,13 @@
               "date": "2026-11-21",
               "weekday": "Sábado",
               "checkouts": [
+                {
+                  "property": "Blanc 18 3.6",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "Canal K",
                   "back_to_back": false,
