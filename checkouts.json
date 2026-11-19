@@ -1,75 +1,7 @@
 {
-  "generated_at": "2026-11-18T18:37:55+00:00",
+  "generated_at": "2026-11-19T01:39:36+00:00",
   "scopes": {
     "today": {
-      "start": "2026-11-18",
-      "end": "2026-11-18",
-      "teams": [
-        {
-          "team": "Aline",
-          "days": []
-        },
-        {
-          "team": "Liliane",
-          "days": []
-        },
-        {
-          "team": "Mara Cardoso",
-          "days": []
-        },
-        {
-          "team": "Margarida",
-          "days": []
-        },
-        {
-          "team": "Sirlane",
-          "days": [
-            {
-              "date": "2026-11-18",
-              "weekday": "Quarta",
-              "checkouts": [
-                {
-                  "property": "Beira Ria 2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 7
-                },
-                {
-                  "property": "Blanc 18 3.6",
-                  "back_to_back": true,
-                  "nights": 3,
-                  "people": 2,
-                  "empty_days": null
-                },
-                {
-                  "property": "Blanc 7 2.3",
-                  "back_to_back": true,
-                  "nights": 4,
-                  "people": 2,
-                  "empty_days": null
-                },
-                {
-                  "property": "Gran Ria E",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 17
-                },
-                {
-                  "property": "Tomasias 23 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 22
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "tomorrow": {
       "start": "2026-11-19",
       "end": "2026-11-19",
       "teams": [
@@ -91,7 +23,82 @@
         },
         {
           "team": "Sirlane",
+          "days": [
+            {
+              "date": "2026-11-19",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "Beira Ria 2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 6
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "tomorrow": {
+      "start": "2026-11-20",
+      "end": "2026-11-20",
+      "teams": [
+        {
+          "team": "Aline",
           "days": []
+        },
+        {
+          "team": "Liliane",
+          "days": []
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": []
+        },
+        {
+          "team": "Margarida",
+          "days": []
+        },
+        {
+          "team": "Sirlane",
+          "days": [
+            {
+              "date": "2026-11-20",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "Beira Ria 1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 3
+                },
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Canal I",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
+                },
+                {
+                  "property": "Ruela 96",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -246,10 +253,10 @@
               "checkouts": [
                 {
                   "property": "Beira Ria 2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 7
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Blanc 18 3.6",
@@ -278,6 +285,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 22
+                }
+              ]
+            },
+            {
+              "date": "2026-11-19",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "Beira Ria 2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 6
                 }
               ]
             },
@@ -311,7 +331,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 2
                 }
               ]
             },
@@ -407,11 +427,25 @@
               "weekday": "Terça",
               "checkouts": [
                 {
+                  "property": "Canal G",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
                   "property": "Canal L",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
                   "empty_days": 20
+                },
+                {
+                  "property": "Ruela 96",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             },
