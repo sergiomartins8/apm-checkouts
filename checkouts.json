@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T09:34:41+00:00",
+  "generated_at": "2026-11-20T11:04:46+00:00",
   "scopes": {
     "today": {
       "start": "2026-11-20",
@@ -115,13 +115,6 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
-                },
-                {
-                  "property": "GreenView D",
-                  "back_to_back": true,
-                  "nights": 5,
-                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -386,13 +379,6 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
-                },
-                {
-                  "property": "GreenView D",
-                  "back_to_back": true,
-                  "nights": 5,
-                  "people": 2,
                   "empty_days": null
                 },
                 {
