@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T01:03:47+00:00",
+  "generated_at": "2026-11-21T09:06:44+00:00",
   "scopes": {
     "today": {
       "start": "2026-11-21",
@@ -122,9 +122,9 @@
                 },
                 {
                   "property": "NB Life V",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -258,9 +258,9 @@
                 },
                 {
                   "property": "NB Life V",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -523,7 +523,21 @@
         },
         {
           "team": "Margarida",
-          "days": []
+          "days": [
+            {
+              "date": "2026-11-26",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "NB Life V",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
         },
         {
           "team": "Sirlane",
@@ -541,9 +555,9 @@
                 },
                 {
                   "property": "Blanc 18 1.7 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 1,
                   "empty_days": null
                 }
               ]
@@ -626,6 +640,13 @@
               "date": "2026-11-28",
               "weekday": "Sábado",
               "checkouts": [
+                {
+                  "property": "Blanc 18 1.7 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "Gran Ria E",
                   "back_to_back": false,
