@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T20:13:37+00:00",
+  "generated_at": "2026-11-24T21:53:08+00:00",
   "scopes": {
     "today": {
       "start": "2026-11-24",
@@ -40,7 +40,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 20
+                  "empty_days": 1
                 },
                 {
                   "property": "Ruela 96",
@@ -161,7 +161,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 20
+                  "empty_days": 1
                 },
                 {
                   "property": "Ruela 96",
@@ -216,6 +216,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Canal L",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 17
                 }
               ]
             },
