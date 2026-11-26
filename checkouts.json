@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T10:21:24+00:00",
+  "generated_at": "2026-11-26T20:51:45+00:00",
   "scopes": {
     "today": {
       "start": "2026-11-26",
@@ -108,6 +108,13 @@
                   "back_to_back": true,
                   "nights": 4,
                   "people": 1,
+                  "empty_days": null
+                },
+                {
+                  "property": "Canal K",
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -260,6 +267,13 @@
                   "empty_days": null
                 },
                 {
+                  "property": "Canal K",
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
                   "property": "Canal L",
                   "back_to_back": false,
                   "nights": null,
@@ -365,7 +379,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 6
                 },
                 {
                   "property": "Gloria 1F",
