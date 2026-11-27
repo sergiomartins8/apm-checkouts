@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T13:26:50+00:00",
+  "generated_at": "2026-11-27T22:30:00+00:00",
   "scopes": {
     "today": {
       "start": "2026-11-27",
@@ -94,7 +94,21 @@
         },
         {
           "team": "Margarida",
-          "days": []
+          "days": [
+            {
+              "date": "2026-11-28",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "Historia",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
         },
         {
           "team": "Sirlane",
@@ -184,11 +198,11 @@
               ]
             },
             {
-              "date": "2026-11-29",
-              "weekday": "Domingo",
+              "date": "2026-11-28",
+              "weekday": "Sábado",
               "checkouts": [
                 {
-                  "property": "White 405",
+                  "property": "Historia",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -406,6 +420,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "iConik 2.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             }
@@ -413,7 +434,21 @@
         },
         {
           "team": "Margarida",
-          "days": []
+          "days": [
+            {
+              "date": "2026-11-30",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "White 405",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
         },
         {
           "team": "Sirlane",
@@ -435,6 +470,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 6
+                },
+                {
+                  "property": "Beira Ria Loft",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 },
                 {
                   "property": "Gloria 1F",
@@ -528,7 +570,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 20
                 }
               ]
             }
